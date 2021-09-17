@@ -20,5 +20,5 @@ steps:
     location: 'Canada Central'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/kwdaniels/AzureRmPipeline-repo/master/CreateWebApp/azuredeploy.json'
-    overrideParameters: '-projectName helloworldcicd'
+    overrideParameters: '-projectName testcicd'
     deploymentMode: 'Incremental'
